@@ -1,5 +1,3 @@
-# Vue 3 + Vite
+Puedes ver el proyecto aquí: https://chat-dun-one.vercel.app/
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Con el objetivo de mejorar la experiencia de usuario en el chat, he añadido la dependencia emoji-picker-element, lo que permite a los usuarios elegir y enviar emojis.
